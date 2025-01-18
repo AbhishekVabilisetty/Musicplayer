@@ -1,4 +1,4 @@
-# 🎵 **Music Player App** 🎶
+# 🎵 **Music Player App** 🎶 (Half Mint)
 
 This is a basic Android Music Player application that allows users to play, pause, navigate between tracks, and control the volume of music tracks.
 
@@ -90,6 +90,10 @@ This is a basic Android Music Player application that allows users to play, paus
 ## 🔒 **License**
 
 This project is for educational purposes and is free to use and modify.
+
+## 📥 **Release**
+
+You can download the latest release of the Music Player app here: [Music Player v1.0 Release](https://github.com/AbhishekVabilisetty/Musicplayer_android_application/releases/tag/v1.0)
 
 ---
 
