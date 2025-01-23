@@ -9,8 +9,6 @@ You can download the latest release of the Music Player app here: [Music Player 
 
 📸 **Screenshots**
 
-![image](https://github.com/user-attachments/assets/a17e8fda-8591-4264-b195-804c13c172ae)
-
 
 ## 🌟 **Features**
 
