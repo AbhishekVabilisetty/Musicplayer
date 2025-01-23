@@ -7,6 +7,11 @@ This is a basic Android Music Player application that allows users to play, paus
 
 You can download the latest release of the Music Player app here: [Music Player v1.0 Release](https://github.com/AbhishekVabilisetty/Musicplayer_android_application/releases/tag/v1.0)
 
+📸 **Screenshots**
+
+![image](https://github.com/user-attachments/assets/a17e8fda-8591-4264-b195-804c13c172ae)
+
+
 ## 🌟 **Features**
 
 - **▶️ Play and Pause**: Start or pause the current track.
