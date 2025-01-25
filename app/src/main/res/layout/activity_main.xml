@@ -96,11 +96,11 @@
         <SeekBar
             android:id="@+id/seekBar"
             android:layout_width="234dp"
-            android:progressTint="@color/light_red"
-            android:thumbTint="@color/red"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@android:color/transparent" />
+            android:background="@android:color/transparent"
+            android:progressTint="@color/light_red"
+            android:thumbTint="@color/red" />
 
         <ImageButton
             android:id="@+id/imageButton6"
@@ -117,10 +117,10 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="@color/light_grey"
-        android:textSize="20sp"
         android:layout_marginHorizontal="2dp"
         android:layout_marginBottom="25dp"
+        android:textColor="@color/light_grey"
+        android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/seekBar3"
         app:layout_constraintStart_toStartOf="@+id/seekBar3" />
 
@@ -135,6 +135,34 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/listen" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="190dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="@+id/imageView"
+        app:layout_constraintStart_toStartOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/seekBar3">
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            app:srcCompat="@drawable/playlist" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="@string/playlist"
+            android:textColor="@color/red" />
+    </LinearLayout>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
