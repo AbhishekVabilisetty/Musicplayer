@@ -9,7 +9,8 @@ You can download the latest release of the Music Player app here: [Music Player 
 
 📸 **Screenshots**
 
-![WhatsApp Image 2025-01-23 at 19 53 47_97f9087d](https://github.com/user-attachments/assets/6e91c3a7-5485-495e-9e38-97aeca165b77)
+![WhatsApp Image 2025-01-25 at 19 31 46_a5b01140](https://github.com/user-attachments/assets/80d80f43-f75e-43fe-8a81-a4403d101dae)
+
 
 
 ## 🌟 **Features**
